@@ -22,10 +22,4 @@ I am a passionate Computer Science Engineering student focused on building robus
 
 
 
-# 📊 GitHub Stats
-
-[![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyashr1904-droid&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ⚡ “First, solve the problem. Then, write the code.”
